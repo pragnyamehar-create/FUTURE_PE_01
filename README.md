@@ -1,74 +1,99 @@
-# FUTURE_PE_01 # AI Website Copy Generator – Iris Café Bangalore
+# FUTURE_PE_01 — AI Website Copy Generator for Local Businesses
+
+**Future Interns | Prompt Engineering Track | Task 1**
+
+---
 
 ## Business Chosen
 
-Iris Café, Bangalore
+**Iris Café**
+Local Café — Bangalore, India
 
-Official Website:
-https://iriscafe.in/
+Specialty: Specialty coffee, breakfast, brunch, desserts, and a welcoming café experience
 
-## Project Objective
+Target Audience:
+- Students
+- Remote workers
+- Coffee lovers
+- Families
+- Friends
+- Young professionals
 
-This project demonstrates how Prompt Engineering can be used to generate professional website copy for local businesses.
+---
 
-The goal was to create a reusable prompt framework capable of generating conversion-focused website content for businesses such as cafés, salons, clinics, coaching institutes, and agencies.
+## What Was Built
+
+A complete AI-generated website copy set created using structured prompts.
+
+| Section | Content |
+|----------|----------|
+| Homepage | Headline, Sub-headline, Introduction, Why Choose Us, Closing |
+| Services Page | 6 service descriptions with benefits and inclusions |
+| CTA Sections | 4 CTA blocks for customer engagement and conversions |
+
+---
+
+## Repository Structure
+
+FUTURE_PE_01/
+  ├── README.md
+  ├── prompts/
+│ ├── prompt_01_homepage.md
+│ ├── prompt_02_services.md
+│ └── prompt_03_cta.md
+├── outputs/
+│ ├── output_01_homepage.md
+│ ├── output_02_services.md
+│ └── output_03_cta.md
+└── assets/
+└── lovable_homepage.png
+
+---
+
+## Prompt Logic Summary
+
+### Prompt 01 — Homepage
+
+Collects business details, audience information, and brand tone to generate customer-focused homepage content.
+
+### Prompt 02 — Services
+
+Generates structured service descriptions highlighting benefits and customer value.
+
+### Prompt 03 — CTA
+
+Creates multiple conversion-focused CTAs designed for different visitor intentions.
+
+---
 
 ## Tools Used
 
-* ChatGPT(For prompts)
-* Lovable(for the website building)
-* GitHub(for the delivery of the web page)
+- ChatGPT — Content generation
+- Google Gemini — Content validation
+- Lovable — Website visualization
+- GitHub — Documentation and project delivery
 
-## Prompt Logic
+---
 
-The prompt framework accepts:
+## Brand Identity
 
-* Business Name
-* Business Type
-* Location
-* Target Audience
-* Services
-* Brand Tone
+| Element | Value |
+|----------|----------|
+| Primary Color | Coffee Brown #6F4E37 |
+| Secondary Color | Warm Beige #F5E6D3 |
+| Style | Modern Café |
+| Voice | Friendly, welcoming, conversational |
 
-The AI then generates:
-
-* Homepage Copy
-* Services Page Content
-* Call-to-Action Sections
-* Trust-Building Content
-* SEO Content
-
-## Generated Deliverables
-
-### Homepage Copy
-
-* Headline
-* Sub-headline
-* Intro Section
-* Why Choose Us
-
-### Services Page Content
-
-* Specialty Coffee
-* Breakfast & Brunch
-* Snacks & Quick Bites
-* Desserts
-* Group Meetups
-* Work-Friendly Seating
-
-### CTA Sections
-
-* Visit Today
-* Reserve a Table
-* Contact Us
-* Location-Based CTA
-
-### SEO Content
-
-* Meta Title
-* Meta Description
-* Local SEO Paragraph
+---
 
 ## Outcome
 
-The generated content is tailored for Iris Café Bangalore and is ready to be published on a real website. The prompt framework is reusable for other local businesses and can help agencies and freelancers create website copy more efficiently.
+A reusable prompt framework capable of generating professional website copy for local businesses.
+
+The generated content includes homepage copy, service descriptions, and CTA sections tailored specifically for Iris Café Bangalore.
+
+The framework can be adapted for cafés, salons, clinics, coaching institutes, agencies, and other local businesses.
+
+---
+
+Future Interns — Prompt Engineering Internship | Task 1
